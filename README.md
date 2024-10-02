@@ -6,6 +6,7 @@ This is a simple clone of the Netflix homepage created using only HTML and CSS. 
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Setup](#setup)
 
 ## Features
 
@@ -20,6 +21,11 @@ This is a simple clone of the Netflix homepage created using only HTML and CSS. 
 - **HTML5**: For creating the structure and layout of the webpage
 - **CSS3**: For styling the webpage, including animations and responsiveness
 
+## Setup
+
+To run this project locally, follow these simple steps:
+
+1. Clone the repository to your local machine:
 
    ```bash
-   https://github.com/nagasaiparaksh/Netflix_Clone
+   git clone https://github.com/your-username/Netfix_Clone.git
