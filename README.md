@@ -22,4 +22,4 @@ This is a simple clone of the Netflix homepage created using only HTML and CSS. 
 
 
    ```bash
-   git clone https://github.com/nagasaiparaksh/Netflix-Clone.git
+   git clone https://github.com/nagasaiparaksh/Netflix_Clone.git
