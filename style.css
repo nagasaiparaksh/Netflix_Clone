@@ -14,14 +14,14 @@ body {
     background-position: center center;
     background-size: max(1200px, 100vw);
     background-repeat: no-repeat;
-    height: 644px;
+    height: 645px;
     position: relative;
 }
 
 .box {
     height: 644px;
     width: 100%;
-    opacity: 0.69;
+    opacity: 0.70;
     position: absolute;
     top: 0;
     background-color: black;
@@ -38,7 +38,7 @@ nav {
 
 nav img {
     color: red;
-    width: 160px;
+    width: 162px;
     position: relative;
     z-index: 10;
     bottom: 20px;
